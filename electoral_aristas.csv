@@ -1,0 +1,405 @@
+edge_id,origen,destino,tipo_arista,peso,votos_estimados,afinidad_bloque,fuente_dato,nota
+E0001,CAN_01,DEP_01,voto_candidato_departamento,47.98,1798109,0,real_ajustado,"Paloma Valencia en Bogotá D.C.: 47.98% (1,798,109 votos est.)"
+E0002,CAN_02,DEP_01,voto_candidato_departamento,27.45,1170029,1,real_ajustado,"Iván Cepeda en Bogotá D.C.: 27.45% (1,170,029 votos est.)"
+E0003,CAN_03,DEP_01,voto_candidato_departamento,6.98,233517,1,real_ajustado,"Claudia López en Bogotá D.C.: 6.98% (233,517 votos est.)"
+E0004,CAN_04,DEP_01,voto_candidato_departamento,4.6,175970,1,real_ajustado,"Roy Barreras en Bogotá D.C.: 4.6% (175,970 votos est.)"
+E0005,CAN_05,DEP_01,voto_candidato_departamento,21.24,809849,0,real_ajustado,"Juan Daniel Oviedo en Bogotá D.C.: 21.24% (809,849 votos est.)"
+E0006,CAN_06,DEP_01,voto_candidato_departamento,3.8,156943,1,real_ajustado,"Sergio Fajardo en Bogotá D.C.: 3.8% (156,943 votos est.)"
+E0007,CAN_01,DEP_02,voto_candidato_departamento,58.63,1512102,1,real_ajustado,"Paloma Valencia en Antioquia: 58.63% (1,512,102 votos est.)"
+E0008,CAN_02,DEP_02,voto_candidato_departamento,17.84,464845,0,real_ajustado,"Iván Cepeda en Antioquia: 17.84% (464,845 votos est.)"
+E0009,CAN_03,DEP_02,voto_candidato_departamento,5.8,162405,1,real_ajustado,"Claudia López en Antioquia: 5.8% (162,405 votos est.)"
+E0010,CAN_04,DEP_02,voto_candidato_departamento,2.96,82825,0,real_ajustado,"Roy Barreras en Antioquia: 2.96% (82,825 votos est.)"
+E0011,CAN_05,DEP_02,voto_candidato_departamento,21.54,574733,1,real_ajustado,"Juan Daniel Oviedo en Antioquia: 21.54% (574,733 votos est.)"
+E0012,CAN_06,DEP_02,voto_candidato_departamento,0.5,11287,1,real_ajustado,"Sergio Fajardo en Antioquia: 0.5% (11,287 votos est.)"
+E0013,CAN_01,DEP_03,voto_candidato_departamento,32.58,611909,0,real_ajustado,"Paloma Valencia en Valle del Cauca: 32.58% (611,909 votos est.)"
+E0014,CAN_02,DEP_03,voto_candidato_departamento,32.64,627271,1,real_ajustado,"Iván Cepeda en Valle del Cauca: 32.64% (627,271 votos est.)"
+E0015,CAN_03,DEP_03,voto_candidato_departamento,7.81,105381,1,real_ajustado,"Claudia López en Valle del Cauca: 7.81% (105,381 votos est.)"
+E0016,CAN_04,DEP_03,voto_candidato_departamento,3.04,50087,1,real_ajustado,"Roy Barreras en Valle del Cauca: 3.04% (50,087 votos est.)"
+E0017,CAN_05,DEP_03,voto_candidato_departamento,12.96,205496,0,real_ajustado,"Juan Daniel Oviedo en Valle del Cauca: 12.96% (205,496 votos est.)"
+E0018,CAN_06,DEP_03,voto_candidato_departamento,4.25,73884,1,real_ajustado,"Sergio Fajardo en Valle del Cauca: 4.25% (73,884 votos est.)"
+E0019,CAN_01,DEP_04,voto_candidato_departamento,39.31,288899,0,real_ajustado,"Paloma Valencia en Atlántico: 39.31% (288,899 votos est.)"
+E0020,CAN_02,DEP_04,voto_candidato_departamento,21.8,185760,0,real_ajustado,"Iván Cepeda en Atlántico: 21.8% (185,760 votos est.)"
+E0021,CAN_03,DEP_04,voto_candidato_departamento,8.08,69835,1,real_ajustado,"Claudia López en Atlántico: 8.08% (69,835 votos est.)"
+E0022,CAN_04,DEP_04,voto_candidato_departamento,4.33,38917,0,real_ajustado,"Roy Barreras en Atlántico: 4.33% (38,917 votos est.)"
+E0023,CAN_05,DEP_04,voto_candidato_departamento,13.68,123326,0,real_ajustado,"Juan Daniel Oviedo en Atlántico: 13.68% (123,326 votos est.)"
+E0024,CAN_06,DEP_04,voto_candidato_departamento,3.71,34649,1,real_ajustado,"Sergio Fajardo en Atlántico: 3.71% (34,649 votos est.)"
+E0025,CAN_01,DEP_05,voto_candidato_departamento,50.22,545405,1,estimado,"Paloma Valencia en Cundinamarca: 50.22% (545,405 votos est.)"
+E0026,CAN_02,DEP_05,voto_candidato_departamento,25.94,235324,0,estimado,"Iván Cepeda en Cundinamarca: 25.94% (235,324 votos est.)"
+E0027,CAN_03,DEP_05,voto_candidato_departamento,11.92,110678,1,estimado,"Claudia López en Cundinamarca: 11.92% (110,678 votos est.)"
+E0028,CAN_04,DEP_05,voto_candidato_departamento,4.1,31370,0,estimado,"Roy Barreras en Cundinamarca: 4.1% (31,370 votos est.)"
+E0029,CAN_05,DEP_05,voto_candidato_departamento,17.88,143476,1,estimado,"Juan Daniel Oviedo en Cundinamarca: 17.88% (143,476 votos est.)"
+E0030,CAN_06,DEP_05,voto_candidato_departamento,0.5,5048,1,estimado,"Sergio Fajardo en Cundinamarca: 0.5% (5,048 votos est.)"
+E0031,CAN_01,DEP_06,voto_candidato_departamento,59.45,398067,1,estimado,"Paloma Valencia en Santander: 59.45% (398,067 votos est.)"
+E0032,CAN_02,DEP_06,voto_candidato_departamento,20.13,157274,0,estimado,"Iván Cepeda en Santander: 20.13% (157,274 votos est.)"
+E0033,CAN_03,DEP_06,voto_candidato_departamento,8.03,56851,1,estimado,"Claudia López en Santander: 8.03% (56,851 votos est.)"
+E0034,CAN_04,DEP_06,voto_candidato_departamento,5.58,46253,0,estimado,"Roy Barreras en Santander: 5.58% (46,253 votos est.)"
+E0035,CAN_05,DEP_06,voto_candidato_departamento,20.16,157469,1,estimado,"Juan Daniel Oviedo en Santander: 20.16% (157,469 votos est.)"
+E0036,CAN_06,DEP_06,voto_candidato_departamento,4.68,43922,1,estimado,"Sergio Fajardo en Santander: 4.68% (43,922 votos est.)"
+E0037,CAN_01,DEP_07,voto_candidato_departamento,39.12,312153,0,estimado,"Paloma Valencia en Bolívar: 39.12% (312,153 votos est.)"
+E0038,CAN_02,DEP_07,voto_candidato_departamento,21.56,155725,0,estimado,"Iván Cepeda en Bolívar: 21.56% (155,725 votos est.)"
+E0039,CAN_03,DEP_07,voto_candidato_departamento,10.35,80788,1,estimado,"Claudia López en Bolívar: 10.35% (80,788 votos est.)"
+E0040,CAN_04,DEP_07,voto_candidato_departamento,3.68,32948,0,estimado,"Roy Barreras en Bolívar: 3.68% (32,948 votos est.)"
+E0041,CAN_05,DEP_07,voto_candidato_departamento,15.58,111913,0,estimado,"Juan Daniel Oviedo en Bolívar: 15.58% (111,913 votos est.)"
+E0042,CAN_06,DEP_07,voto_candidato_departamento,0.82,5247,1,estimado,"Sergio Fajardo en Bolívar: 0.82% (5,247 votos est.)"
+E0043,CAN_01,DEP_08,voto_candidato_departamento,30.64,181817,0,estimado,"Paloma Valencia en Nariño: 30.64% (181,817 votos est.)"
+E0044,CAN_02,DEP_08,voto_candidato_departamento,30.56,176342,1,estimado,"Iván Cepeda en Nariño: 30.56% (176,342 votos est.)"
+E0045,CAN_03,DEP_08,voto_candidato_departamento,7.67,50984,1,estimado,"Claudia López en Nariño: 7.67% (50,984 votos est.)"
+E0046,CAN_04,DEP_08,voto_candidato_departamento,2.55,14505,1,estimado,"Roy Barreras en Nariño: 2.55% (14,505 votos est.)"
+E0047,CAN_05,DEP_08,voto_candidato_departamento,14.28,91928,0,estimado,"Juan Daniel Oviedo en Nariño: 14.28% (91,928 votos est.)"
+E0048,CAN_06,DEP_08,voto_candidato_departamento,3.84,22453,1,estimado,"Sergio Fajardo en Nariño: 3.84% (22,453 votos est.)"
+E0049,CAN_01,DEP_09,voto_candidato_departamento,41.29,237233,0,estimado,"Paloma Valencia en Córdoba: 41.29% (237,233 votos est.)"
+E0050,CAN_02,DEP_09,voto_candidato_departamento,19.44,114947,0,estimado,"Iván Cepeda en Córdoba: 19.44% (114,947 votos est.)"
+E0051,CAN_03,DEP_09,voto_candidato_departamento,6.14,33567,1,estimado,"Claudia López en Córdoba: 6.14% (33,567 votos est.)"
+E0052,CAN_04,DEP_09,voto_candidato_departamento,5.52,28294,0,estimado,"Roy Barreras en Córdoba: 5.52% (28,294 votos est.)"
+E0053,CAN_05,DEP_09,voto_candidato_departamento,15.7,94324,0,estimado,"Juan Daniel Oviedo en Córdoba: 15.7% (94,324 votos est.)"
+E0054,CAN_06,DEP_09,voto_candidato_departamento,5.01,28893,1,estimado,"Sergio Fajardo en Córdoba: 5.01% (28,893 votos est.)"
+E0055,CAN_01,DEP_10,voto_candidato_departamento,57.0,234393,1,estimado,"Paloma Valencia en Norte de Santander: 57.0% (234,393 votos est.)"
+E0056,CAN_02,DEP_10,voto_candidato_departamento,18.0,88865,0,estimado,"Iván Cepeda en Norte de Santander: 18.0% (88,865 votos est.)"
+E0057,CAN_03,DEP_10,voto_candidato_departamento,5.72,30947,1,estimado,"Claudia López en Norte de Santander: 5.72% (30,947 votos est.)"
+E0058,CAN_04,DEP_10,voto_candidato_departamento,2.73,13223,0,estimado,"Roy Barreras en Norte de Santander: 2.73% (13,223 votos est.)"
+E0059,CAN_05,DEP_10,voto_candidato_departamento,17.51,69872,1,estimado,"Juan Daniel Oviedo en Norte de Santander: 17.51% (69,872 votos est.)"
+E0060,CAN_06,DEP_10,voto_candidato_departamento,2.58,14863,1,estimado,"Sergio Fajardo en Norte de Santander: 2.58% (14,863 votos est.)"
+E0061,CAN_01,DEP_11,voto_candidato_departamento,54.62,246570,1,estimado,"Paloma Valencia en Huila: 54.62% (246,570 votos est.)"
+E0062,CAN_02,DEP_11,voto_candidato_departamento,17.88,75898,0,estimado,"Iván Cepeda en Huila: 17.88% (75,898 votos est.)"
+E0063,CAN_03,DEP_11,voto_candidato_departamento,9.65,46010,1,estimado,"Claudia López en Huila: 9.65% (46,010 votos est.)"
+E0064,CAN_04,DEP_11,voto_candidato_departamento,4.28,18263,0,estimado,"Roy Barreras en Huila: 4.28% (18,263 votos est.)"
+E0065,CAN_05,DEP_11,voto_candidato_departamento,18.35,69087,1,estimado,"Juan Daniel Oviedo en Huila: 18.35% (69,087 votos est.)"
+E0066,CAN_06,DEP_11,voto_candidato_departamento,2.6,11638,1,estimado,"Sergio Fajardo en Huila: 2.6% (11,638 votos est.)"
+E0067,CAN_01,DEP_12,voto_candidato_departamento,59.82,269791,0,estimado,"Paloma Valencia en Tolima: 59.82% (269,791 votos est.)"
+E0068,CAN_02,DEP_12,voto_candidato_departamento,20.72,80573,0,estimado,"Iván Cepeda en Tolima: 20.72% (80,573 votos est.)"
+E0069,CAN_03,DEP_12,voto_candidato_departamento,6.48,30306,1,estimado,"Claudia López en Tolima: 6.48% (30,306 votos est.)"
+E0070,CAN_04,DEP_12,voto_candidato_departamento,6.02,31172,0,estimado,"Roy Barreras en Tolima: 6.02% (31,172 votos est.)"
+E0071,CAN_05,DEP_12,voto_candidato_departamento,20.45,77728,0,estimado,"Juan Daniel Oviedo en Tolima: 20.45% (77,728 votos est.)"
+E0072,CAN_06,DEP_12,voto_candidato_departamento,3.11,16423,1,estimado,"Sergio Fajardo en Tolima: 3.11% (16,423 votos est.)"
+E0073,CAN_01,DEP_13,voto_candidato_departamento,31.41,185615,0,estimado,"Paloma Valencia en Cauca: 31.41% (185,615 votos est.)"
+E0074,CAN_02,DEP_13,voto_candidato_departamento,29.64,145935,1,estimado,"Iván Cepeda en Cauca: 29.64% (145,935 votos est.)"
+E0075,CAN_03,DEP_13,voto_candidato_departamento,9.58,49195,1,estimado,"Claudia López en Cauca: 9.58% (49,195 votos est.)"
+E0076,CAN_04,DEP_13,voto_candidato_departamento,2.17,8991,1,estimado,"Roy Barreras en Cauca: 2.17% (8,991 votos est.)"
+E0077,CAN_05,DEP_13,voto_candidato_departamento,11.84,69335,0,estimado,"Juan Daniel Oviedo en Cauca: 11.84% (69,335 votos est.)"
+E0078,CAN_06,DEP_13,voto_candidato_departamento,0.5,2398,1,estimado,"Sergio Fajardo en Cauca: 0.5% (2,398 votos est.)"
+E0079,CAN_01,DEP_14,voto_candidato_departamento,51.68,207616,1,estimado,"Paloma Valencia en Meta: 51.68% (207,616 votos est.)"
+E0080,CAN_02,DEP_14,voto_candidato_departamento,17.69,64648,0,estimado,"Iván Cepeda en Meta: 17.69% (64,648 votos est.)"
+E0081,CAN_03,DEP_14,voto_candidato_departamento,6.7,22546,1,estimado,"Claudia López en Meta: 6.7% (22,546 votos est.)"
+E0082,CAN_04,DEP_14,voto_candidato_departamento,2.22,6904,0,estimado,"Roy Barreras en Meta: 2.22% (6,904 votos est.)"
+E0083,CAN_05,DEP_14,voto_candidato_departamento,21.34,79817,1,estimado,"Juan Daniel Oviedo en Meta: 21.34% (79,817 votos est.)"
+E0084,CAN_06,DEP_14,voto_candidato_departamento,3.82,12053,1,estimado,"Sergio Fajardo en Meta: 3.82% (12,053 votos est.)"
+E0085,CAN_01,DEP_15,voto_candidato_departamento,38.96,157934,0,estimado,"Paloma Valencia en Cesar: 38.96% (157,934 votos est.)"
+E0086,CAN_02,DEP_15,voto_candidato_departamento,19.56,84443,0,estimado,"Iván Cepeda en Cesar: 19.56% (84,443 votos est.)"
+E0087,CAN_03,DEP_15,voto_candidato_departamento,9.62,33393,1,estimado,"Claudia López en Cesar: 9.62% (33,393 votos est.)"
+E0088,CAN_04,DEP_15,voto_candidato_departamento,3.21,11789,0,estimado,"Roy Barreras en Cesar: 3.21% (11,789 votos est.)"
+E0089,CAN_05,DEP_15,voto_candidato_departamento,18.51,63533,0,estimado,"Juan Daniel Oviedo en Cesar: 18.51% (63,533 votos est.)"
+E0090,CAN_06,DEP_15,voto_candidato_departamento,2.47,11614,1,estimado,"Sergio Fajardo en Cesar: 2.47% (11,614 votos est.)"
+E0091,CAN_01,DEP_16,voto_candidato_departamento,56.84,223921,1,estimado,"Paloma Valencia en Risaralda: 56.84% (223,921 votos est.)"
+E0092,CAN_02,DEP_16,voto_candidato_departamento,17.53,68000,0,estimado,"Iván Cepeda en Risaralda: 17.53% (68,000 votos est.)"
+E0093,CAN_03,DEP_16,voto_candidato_departamento,10.41,32023,1,estimado,"Claudia López en Risaralda: 10.41% (32,023 votos est.)"
+E0094,CAN_04,DEP_16,voto_candidato_departamento,3.45,13737,0,estimado,"Roy Barreras en Risaralda: 3.45% (13,737 votos est.)"
+E0095,CAN_05,DEP_16,voto_candidato_departamento,20.53,86597,1,estimado,"Juan Daniel Oviedo en Risaralda: 20.53% (86,597 votos est.)"
+E0096,CAN_06,DEP_16,voto_candidato_departamento,0.5,2031,1,estimado,"Sergio Fajardo en Risaralda: 0.5% (2,031 votos est.)"
+E0097,CAN_01,DEP_17,voto_candidato_departamento,38.18,163910,0,estimado,"Paloma Valencia en Magdalena: 38.18% (163,910 votos est.)"
+E0098,CAN_02,DEP_17,voto_candidato_departamento,20.02,74148,0,estimado,"Iván Cepeda en Magdalena: 20.02% (74,148 votos est.)"
+E0099,CAN_03,DEP_17,voto_candidato_departamento,7.38,30663,1,estimado,"Claudia López en Magdalena: 7.38% (30,663 votos est.)"
+E0100,CAN_04,DEP_17,voto_candidato_departamento,2.39,10554,0,estimado,"Roy Barreras en Magdalena: 2.39% (10,554 votos est.)"
+E0101,CAN_05,DEP_17,voto_candidato_departamento,17.67,75570,0,estimado,"Juan Daniel Oviedo en Magdalena: 17.67% (75,570 votos est.)"
+E0102,CAN_06,DEP_17,voto_candidato_departamento,2.01,8288,1,estimado,"Sergio Fajardo en Magdalena: 2.01% (8,288 votos est.)"
+E0103,CAN_01,DEP_18,voto_candidato_departamento,57.02,220267,1,estimado,"Paloma Valencia en Boyacá: 57.02% (220,267 votos est.)"
+E0104,CAN_02,DEP_18,voto_candidato_departamento,21.18,106753,0,estimado,"Iván Cepeda en Boyacá: 21.18% (106,753 votos est.)"
+E0105,CAN_03,DEP_18,voto_candidato_departamento,10.04,51498,1,estimado,"Claudia López en Boyacá: 10.04% (51,498 votos est.)"
+E0106,CAN_04,DEP_18,voto_candidato_departamento,1.66,8820,0,estimado,"Roy Barreras en Boyacá: 1.66% (8,820 votos est.)"
+E0107,CAN_05,DEP_18,voto_candidato_departamento,22.7,108448,1,estimado,"Juan Daniel Oviedo en Boyacá: 22.7% (108,448 votos est.)"
+E0108,CAN_06,DEP_18,voto_candidato_departamento,1.55,7776,1,estimado,"Sergio Fajardo en Boyacá: 1.55% (7,776 votos est.)"
+E0109,CAN_01,DEP_19,voto_candidato_departamento,59.22,223125,1,estimado,"Paloma Valencia en Caldas: 59.22% (223,125 votos est.)"
+E0110,CAN_02,DEP_19,voto_candidato_departamento,22.16,73895,0,estimado,"Iván Cepeda en Caldas: 22.16% (73,895 votos est.)"
+E0111,CAN_03,DEP_19,voto_candidato_departamento,6.08,22011,1,estimado,"Claudia López en Caldas: 6.08% (22,011 votos est.)"
+E0112,CAN_04,DEP_19,voto_candidato_departamento,3.7,13276,0,estimado,"Roy Barreras en Caldas: 3.7% (13,276 votos est.)"
+E0113,CAN_05,DEP_19,voto_candidato_departamento,18.08,69242,1,estimado,"Juan Daniel Oviedo en Caldas: 18.08% (69,242 votos est.)"
+E0114,CAN_06,DEP_19,voto_candidato_departamento,2.43,8817,1,estimado,"Sergio Fajardo en Caldas: 2.43% (8,817 votos est.)"
+E0115,CAN_01,DEP_20,voto_candidato_departamento,37.13,103141,0,estimado,"Paloma Valencia en La Guajira: 37.13% (103,141 votos est.)"
+E0116,CAN_02,DEP_20,voto_candidato_departamento,19.15,58994,1,estimado,"Iván Cepeda en La Guajira: 19.15% (58,994 votos est.)"
+E0117,CAN_03,DEP_20,voto_candidato_departamento,6.16,16890,1,estimado,"Claudia López en La Guajira: 6.16% (16,890 votos est.)"
+E0118,CAN_04,DEP_20,voto_candidato_departamento,6.54,17230,1,estimado,"Roy Barreras en La Guajira: 6.54% (17,230 votos est.)"
+E0119,CAN_05,DEP_20,voto_candidato_departamento,17.09,56680,0,estimado,"Juan Daniel Oviedo en La Guajira: 17.09% (56,680 votos est.)"
+E0120,CAN_06,DEP_20,voto_candidato_departamento,3.54,9385,1,estimado,"Sergio Fajardo en La Guajira: 3.54% (9,385 votos est.)"
+E0121,CAN_01,DEP_21,voto_candidato_departamento,39.63,119828,0,estimado,"Paloma Valencia en Sucre: 39.63% (119,828 votos est.)"
+E0122,CAN_02,DEP_21,voto_candidato_departamento,19.2,65421,0,estimado,"Iván Cepeda en Sucre: 19.2% (65,421 votos est.)"
+E0123,CAN_03,DEP_21,voto_candidato_departamento,7.29,20418,1,estimado,"Claudia López en Sucre: 7.29% (20,418 votos est.)"
+E0124,CAN_04,DEP_21,voto_candidato_departamento,2.38,5971,0,estimado,"Roy Barreras en Sucre: 2.38% (5,971 votos est.)"
+E0125,CAN_05,DEP_21,voto_candidato_departamento,15.45,53731,0,estimado,"Juan Daniel Oviedo en Sucre: 15.45% (53,731 votos est.)"
+E0126,CAN_06,DEP_21,voto_candidato_departamento,3.87,11288,1,estimado,"Sergio Fajardo en Sucre: 3.87% (11,288 votos est.)"
+E0127,CAN_01,DEP_22,voto_candidato_departamento,26.8,38850,0,estimado,"Paloma Valencia en Chocó: 26.8% (38,850 votos est.)"
+E0128,CAN_02,DEP_22,voto_candidato_departamento,27.94,40993,1,estimado,"Iván Cepeda en Chocó: 27.94% (40,993 votos est.)"
+E0129,CAN_03,DEP_22,voto_candidato_departamento,8.85,15633,1,estimado,"Claudia López en Chocó: 8.85% (15,633 votos est.)"
+E0130,CAN_04,DEP_22,voto_candidato_departamento,6.61,10689,1,estimado,"Roy Barreras en Chocó: 6.61% (10,689 votos est.)"
+E0131,CAN_05,DEP_22,voto_candidato_departamento,15.89,28392,0,estimado,"Juan Daniel Oviedo en Chocó: 15.89% (28,392 votos est.)"
+E0132,CAN_06,DEP_22,voto_candidato_departamento,2.92,5232,1,estimado,"Sergio Fajardo en Chocó: 2.92% (5,232 votos est.)"
+E0133,CAN_01,DEP_23,voto_candidato_departamento,59.67,126866,1,estimado,"Paloma Valencia en Quindío: 59.67% (126,866 votos est.)"
+E0134,CAN_02,DEP_23,voto_candidato_departamento,17.69,39893,0,estimado,"Iván Cepeda en Quindío: 17.69% (39,893 votos est.)"
+E0135,CAN_03,DEP_23,voto_candidato_departamento,11.01,28857,1,estimado,"Claudia López en Quindío: 11.01% (28,857 votos est.)"
+E0136,CAN_04,DEP_23,voto_candidato_departamento,4.39,11440,0,estimado,"Roy Barreras en Quindío: 4.39% (11,440 votos est.)"
+E0137,CAN_05,DEP_23,voto_candidato_departamento,21.51,57235,1,estimado,"Juan Daniel Oviedo en Quindío: 21.51% (57,235 votos est.)"
+E0138,CAN_06,DEP_23,voto_candidato_departamento,1.43,3834,1,estimado,"Sergio Fajardo en Quindío: 1.43% (3,834 votos est.)"
+E0139,CAN_01,DEP_24,voto_candidato_departamento,26.56,40666,0,estimado,"Paloma Valencia en Putumayo: 26.56% (40,666 votos est.)"
+E0140,CAN_02,DEP_24,voto_candidato_departamento,29.29,33589,1,estimado,"Iván Cepeda en Putumayo: 29.29% (33,589 votos est.)"
+E0141,CAN_03,DEP_24,voto_candidato_departamento,8.5,10968,1,estimado,"Claudia López en Putumayo: 8.5% (10,968 votos est.)"
+E0142,CAN_04,DEP_24,voto_candidato_departamento,6.74,10554,1,estimado,"Roy Barreras en Putumayo: 6.74% (10,554 votos est.)"
+E0143,CAN_05,DEP_24,voto_candidato_departamento,10.17,15749,0,estimado,"Juan Daniel Oviedo en Putumayo: 10.17% (15,749 votos est.)"
+E0144,CAN_06,DEP_24,voto_candidato_departamento,0.8,1297,1,estimado,"Sergio Fajardo en Putumayo: 0.8% (1,297 votos est.)"
+E0145,CAN_01,DEP_25,voto_candidato_departamento,27.67,36495,0,estimado,"Paloma Valencia en Caquetá: 27.67% (36,495 votos est.)"
+E0146,CAN_02,DEP_25,voto_candidato_departamento,30.03,45756,1,estimado,"Iván Cepeda en Caquetá: 30.03% (45,756 votos est.)"
+E0147,CAN_03,DEP_25,voto_candidato_departamento,5.0,7341,1,estimado,"Claudia López en Caquetá: 5.0% (7,341 votos est.)"
+E0148,CAN_04,DEP_25,voto_candidato_departamento,1.7,2043,1,estimado,"Roy Barreras en Caquetá: 1.7% (2,043 votos est.)"
+E0149,CAN_05,DEP_25,voto_candidato_departamento,11.56,17153,0,estimado,"Juan Daniel Oviedo en Caquetá: 11.56% (17,153 votos est.)"
+E0150,CAN_06,DEP_25,voto_candidato_departamento,2.82,3241,1,estimado,"Sergio Fajardo en Caquetá: 2.82% (3,241 votos est.)"
+E0151,CAN_01,DEP_26,voto_candidato_departamento,53.02,46877,0,estimado,"Paloma Valencia en Arauca: 53.02% (46,877 votos est.)"
+E0152,CAN_02,DEP_26,voto_candidato_departamento,19.84,16708,1,estimado,"Iván Cepeda en Arauca: 19.84% (16,708 votos est.)"
+E0153,CAN_03,DEP_26,voto_candidato_departamento,7.26,6062,1,estimado,"Claudia López en Arauca: 7.26% (6,062 votos est.)"
+E0154,CAN_04,DEP_26,voto_candidato_departamento,1.02,970,1,estimado,Roy Barreras en Arauca: 1.02% (970 votos est.)
+E0155,CAN_05,DEP_26,voto_candidato_departamento,19.62,21434,0,estimado,"Juan Daniel Oviedo en Arauca: 19.62% (21,434 votos est.)"
+E0156,CAN_06,DEP_26,voto_candidato_departamento,3.1,2786,1,estimado,"Sergio Fajardo en Arauca: 3.1% (2,786 votos est.)"
+E0157,CAN_01,DEP_27,voto_candidato_departamento,51.08,64294,1,estimado,"Paloma Valencia en Casanare: 51.08% (64,294 votos est.)"
+E0158,CAN_02,DEP_27,voto_candidato_departamento,17.68,23532,0,estimado,"Iván Cepeda en Casanare: 17.68% (23,532 votos est.)"
+E0159,CAN_03,DEP_27,voto_candidato_departamento,7.61,10073,1,estimado,"Claudia López en Casanare: 7.61% (10,073 votos est.)"
+E0160,CAN_04,DEP_27,voto_candidato_departamento,2.16,3682,0,estimado,"Roy Barreras en Casanare: 2.16% (3,682 votos est.)"
+E0161,CAN_05,DEP_27,voto_candidato_departamento,19.21,31622,1,estimado,"Juan Daniel Oviedo en Casanare: 19.21% (31,622 votos est.)"
+E0162,CAN_06,DEP_27,voto_candidato_departamento,2.31,3557,1,estimado,"Sergio Fajardo en Casanare: 2.31% (3,557 votos est.)"
+E0163,CAN_01,DEP_28,voto_candidato_departamento,30.19,7891,0,estimado,"Paloma Valencia en Amazonas: 30.19% (7,891 votos est.)"
+E0164,CAN_02,DEP_28,voto_candidato_departamento,28.26,7723,1,estimado,"Iván Cepeda en Amazonas: 28.26% (7,723 votos est.)"
+E0165,CAN_03,DEP_28,voto_candidato_departamento,8.85,2139,1,estimado,"Claudia López en Amazonas: 8.85% (2,139 votos est.)"
+E0166,CAN_04,DEP_28,voto_candidato_departamento,4.94,1043,1,estimado,"Roy Barreras en Amazonas: 4.94% (1,043 votos est.)"
+E0167,CAN_05,DEP_28,voto_candidato_departamento,15.3,3932,0,estimado,"Juan Daniel Oviedo en Amazonas: 15.3% (3,932 votos est.)"
+E0168,CAN_06,DEP_28,voto_candidato_departamento,4.71,1308,1,estimado,"Sergio Fajardo en Amazonas: 4.71% (1,308 votos est.)"
+E0169,CAN_01,DEP_29,voto_candidato_departamento,29.59,4478,0,estimado,"Paloma Valencia en Guainía: 29.59% (4,478 votos est.)"
+E0170,CAN_02,DEP_29,voto_candidato_departamento,32.1,4011,1,estimado,"Iván Cepeda en Guainía: 32.1% (4,011 votos est.)"
+E0171,CAN_03,DEP_29,voto_candidato_departamento,10.18,1552,1,estimado,"Claudia López en Guainía: 10.18% (1,552 votos est.)"
+E0172,CAN_04,DEP_29,voto_candidato_departamento,2.39,350,1,estimado,Roy Barreras en Guainía: 2.39% (350 votos est.)
+E0173,CAN_05,DEP_29,voto_candidato_departamento,11.49,1321,0,estimado,"Juan Daniel Oviedo en Guainía: 11.49% (1,321 votos est.)"
+E0174,CAN_06,DEP_29,voto_candidato_departamento,1.04,142,1,estimado,Sergio Fajardo en Guainía: 1.04% (142 votos est.)
+E0175,CAN_01,DEP_30,voto_candidato_departamento,52.85,10883,1,estimado,"Paloma Valencia en Vichada: 52.85% (10,883 votos est.)"
+E0176,CAN_02,DEP_30,voto_candidato_departamento,22.27,4775,0,estimado,"Iván Cepeda en Vichada: 22.27% (4,775 votos est.)"
+E0177,CAN_03,DEP_30,voto_candidato_departamento,5.86,1278,1,estimado,"Claudia López en Vichada: 5.86% (1,278 votos est.)"
+E0178,CAN_04,DEP_30,voto_candidato_departamento,1.19,285,0,estimado,Roy Barreras en Vichada: 1.19% (285 votos est.)
+E0179,CAN_05,DEP_30,voto_candidato_departamento,21.35,4976,1,estimado,"Juan Daniel Oviedo en Vichada: 21.35% (4,976 votos est.)"
+E0180,CAN_06,DEP_30,voto_candidato_departamento,4.01,898,1,estimado,Sergio Fajardo en Vichada: 4.01% (898 votos est.)
+E0181,CAN_01,DEP_31,voto_candidato_departamento,29.19,3198,0,estimado,"Paloma Valencia en Vaupés: 29.19% (3,198 votos est.)"
+E0182,CAN_02,DEP_31,voto_candidato_departamento,27.17,2687,1,estimado,"Iván Cepeda en Vaupés: 27.17% (2,687 votos est.)"
+E0183,CAN_03,DEP_31,voto_candidato_departamento,8.71,779,1,estimado,Claudia López en Vaupés: 8.71% (779 votos est.)
+E0184,CAN_04,DEP_31,voto_candidato_departamento,5.43,673,1,estimado,Roy Barreras en Vaupés: 5.43% (673 votos est.)
+E0185,CAN_05,DEP_31,voto_candidato_departamento,9.54,884,0,estimado,Juan Daniel Oviedo en Vaupés: 9.54% (884 votos est.)
+E0186,CAN_06,DEP_31,voto_candidato_departamento,3.98,427,1,estimado,Sergio Fajardo en Vaupés: 3.98% (427 votos est.)
+E0187,CAN_01,DEP_32,voto_candidato_departamento,39.28,14402,0,estimado,"Paloma Valencia en San Andrés: 39.28% (14,402 votos est.)"
+E0188,CAN_02,DEP_32,voto_candidato_departamento,19.82,7285,0,estimado,"Iván Cepeda en San Andrés: 19.82% (7,285 votos est.)"
+E0189,CAN_03,DEP_32,voto_candidato_departamento,8.65,2848,1,estimado,"Claudia López en San Andrés: 8.65% (2,848 votos est.)"
+E0190,CAN_04,DEP_32,voto_candidato_departamento,1.76,550,0,estimado,Roy Barreras en San Andrés: 1.76% (550 votos est.)
+E0191,CAN_05,DEP_32,voto_candidato_departamento,13.5,4588,0,estimado,"Juan Daniel Oviedo en San Andrés: 13.5% (4,588 votos est.)"
+E0192,CAN_06,DEP_32,voto_candidato_departamento,1.21,342,1,estimado,Sergio Fajardo en San Andrés: 1.21% (342 votos est.)
+E0193,CAN_01,DEP_33,voto_candidato_departamento,56.66,54925,1,estimado,"Paloma Valencia en Exterior EEUU: 56.66% (54,925 votos est.)"
+E0194,CAN_02,DEP_33,voto_candidato_departamento,23.4,19056,0,estimado,"Iván Cepeda en Exterior EEUU: 23.4% (19,056 votos est.)"
+E0195,CAN_03,DEP_33,voto_candidato_departamento,6.9,6560,1,estimado,"Claudia López en Exterior EEUU: 6.9% (6,560 votos est.)"
+E0196,CAN_04,DEP_33,voto_candidato_departamento,2.05,2267,0,estimado,"Roy Barreras en Exterior EEUU: 2.05% (2,267 votos est.)"
+E0197,CAN_05,DEP_33,voto_candidato_departamento,17.67,18110,1,estimado,"Juan Daniel Oviedo en Exterior EEUU: 17.67% (18,110 votos est.)"
+E0198,CAN_06,DEP_33,voto_candidato_departamento,0.5,487,1,estimado,Sergio Fajardo en Exterior EEUU: 0.5% (487 votos est.)
+E0199,CAN_01,DEP_34,voto_candidato_departamento,59.29,26922,0,estimado,"Paloma Valencia en Exterior Europa: 59.29% (26,922 votos est.)"
+E0200,CAN_02,DEP_34,voto_candidato_departamento,23.55,12726,1,estimado,"Iván Cepeda en Exterior Europa: 23.55% (12,726 votos est.)"
+E0201,CAN_03,DEP_34,voto_candidato_departamento,11.01,6137,1,estimado,"Claudia López en Exterior Europa: 11.01% (6,137 votos est.)"
+E0202,CAN_04,DEP_34,voto_candidato_departamento,0.93,437,1,estimado,Roy Barreras en Exterior Europa: 0.93% (437 votos est.)
+E0203,CAN_05,DEP_34,voto_candidato_departamento,17.61,8365,0,estimado,"Juan Daniel Oviedo en Exterior Europa: 17.61% (8,365 votos est.)"
+E0204,CAN_06,DEP_34,voto_candidato_departamento,0.5,268,1,estimado,Sergio Fajardo en Exterior Europa: 0.5% (268 votos est.)
+E0205,MED_01,CAN_01,cobertura_medio_candidato,72.1,2018799,0,estimado_encuesta,El Tiempo → Paloma Valencia: cobertura favorable 72.1%
+E0206,MED_01,CAN_02,cobertura_medio_candidato,25.8,722400,0,estimado_encuesta,El Tiempo → Iván Cepeda: cobertura favorable 25.8%
+E0207,MED_01,CAN_03,cobertura_medio_candidato,56.4,1579200,0,estimado_encuesta,El Tiempo → Claudia López: cobertura favorable 56.4%
+E0208,MED_01,CAN_04,cobertura_medio_candidato,25.0,700000,0,estimado_encuesta,El Tiempo → Roy Barreras: cobertura favorable 25.0%
+E0209,MED_01,CAN_05,cobertura_medio_candidato,66.7,1867600,1,estimado_encuesta,El Tiempo → Juan Daniel Oviedo: cobertura favorable 66.7%
+E0210,MED_01,CAN_06,cobertura_medio_candidato,53.7,1503600,0,estimado_encuesta,El Tiempo → Sergio Fajardo: cobertura favorable 53.7%
+E0211,MED_02,CAN_01,cobertura_medio_candidato,17.2,206400,0,estimado_encuesta,El Espectador → Paloma Valencia: cobertura favorable 17.2%
+E0212,MED_02,CAN_02,cobertura_medio_candidato,71.5,858000,0,estimado_encuesta,El Espectador → Iván Cepeda: cobertura favorable 71.5%
+E0213,MED_02,CAN_03,cobertura_medio_candidato,56.1,673200,0,estimado_encuesta,El Espectador → Claudia López: cobertura favorable 56.1%
+E0214,MED_02,CAN_04,cobertura_medio_candidato,61.3,735600,1,estimado_encuesta,El Espectador → Roy Barreras: cobertura favorable 61.3%
+E0215,MED_02,CAN_05,cobertura_medio_candidato,34.9,418800,0,estimado_encuesta,El Espectador → Juan Daniel Oviedo: cobertura favorable 34.9%
+E0216,MED_02,CAN_06,cobertura_medio_candidato,54.8,657600,0,estimado_encuesta,El Espectador → Sergio Fajardo: cobertura favorable 54.8%
+E0217,MED_03,CAN_01,cobertura_medio_candidato,88.7,1596600,1,estimado_encuesta,Semana → Paloma Valencia: cobertura favorable 88.7%
+E0218,MED_03,CAN_02,cobertura_medio_candidato,12.3,221400,0,estimado_encuesta,Semana → Iván Cepeda: cobertura favorable 12.3%
+E0219,MED_03,CAN_03,cobertura_medio_candidato,38.8,698400,0,estimado_encuesta,Semana → Claudia López: cobertura favorable 38.8%
+E0220,MED_03,CAN_04,cobertura_medio_candidato,21.2,381600,0,estimado_encuesta,Semana → Roy Barreras: cobertura favorable 21.2%
+E0221,MED_03,CAN_05,cobertura_medio_candidato,71.5,1287000,0,estimado_encuesta,Semana → Juan Daniel Oviedo: cobertura favorable 71.5%
+E0222,MED_03,CAN_06,cobertura_medio_candidato,38.5,693000,0,estimado_encuesta,Semana → Sergio Fajardo: cobertura favorable 38.5%
+E0223,MED_04,CAN_01,cobertura_medio_candidato,54.1,4598500,0,estimado_encuesta,Caracol TV → Paloma Valencia: cobertura favorable 54.1%
+E0224,MED_04,CAN_02,cobertura_medio_candidato,41.2,3502000,0,estimado_encuesta,Caracol TV → Iván Cepeda: cobertura favorable 41.2%
+E0225,MED_04,CAN_03,cobertura_medio_candidato,60.2,5117000,1,estimado_encuesta,Caracol TV → Claudia López: cobertura favorable 60.2%
+E0226,MED_04,CAN_04,cobertura_medio_candidato,53.3,4530500,0,estimado_encuesta,Caracol TV → Roy Barreras: cobertura favorable 53.3%
+E0227,MED_04,CAN_05,cobertura_medio_candidato,56.8,4828000,0,estimado_encuesta,Caracol TV → Juan Daniel Oviedo: cobertura favorable 56.8%
+E0228,MED_04,CAN_06,cobertura_medio_candidato,59.6,5066000,1,estimado_encuesta,Caracol TV → Sergio Fajardo: cobertura favorable 59.6%
+E0229,MED_05,CAN_01,cobertura_medio_candidato,72.9,5248800,0,estimado_encuesta,RCN TV → Paloma Valencia: cobertura favorable 72.9%
+E0230,MED_05,CAN_02,cobertura_medio_candidato,17.8,1281600,0,estimado_encuesta,RCN TV → Iván Cepeda: cobertura favorable 17.8%
+E0231,MED_05,CAN_03,cobertura_medio_candidato,57.8,4161600,0,estimado_encuesta,RCN TV → Claudia López: cobertura favorable 57.8%
+E0232,MED_05,CAN_04,cobertura_medio_candidato,25.9,1864800,0,estimado_encuesta,RCN TV → Roy Barreras: cobertura favorable 25.9%
+E0233,MED_05,CAN_05,cobertura_medio_candidato,67.9,4888800,1,estimado_encuesta,RCN TV → Juan Daniel Oviedo: cobertura favorable 67.9%
+E0234,MED_05,CAN_06,cobertura_medio_candidato,53.1,3823200,0,estimado_encuesta,RCN TV → Sergio Fajardo: cobertura favorable 53.1%
+E0235,MED_06,CAN_01,cobertura_medio_candidato,87.5,2800000,1,estimado_encuesta,Blu Radio → Paloma Valencia: cobertura favorable 87.5%
+E0236,MED_06,CAN_02,cobertura_medio_candidato,7.3,233600,0,estimado_encuesta,Blu Radio → Iván Cepeda: cobertura favorable 7.3%
+E0237,MED_06,CAN_03,cobertura_medio_candidato,38.3,1225599,0,estimado_encuesta,Blu Radio → Claudia López: cobertura favorable 38.3%
+E0238,MED_06,CAN_04,cobertura_medio_candidato,20.1,643200,0,estimado_encuesta,Blu Radio → Roy Barreras: cobertura favorable 20.1%
+E0239,MED_06,CAN_05,cobertura_medio_candidato,68.3,2185600,0,estimado_encuesta,Blu Radio → Juan Daniel Oviedo: cobertura favorable 68.3%
+E0240,MED_06,CAN_06,cobertura_medio_candidato,44.1,1411200,0,estimado_encuesta,Blu Radio → Sergio Fajardo: cobertura favorable 44.1%
+E0241,MED_07,CAN_01,cobertura_medio_candidato,12.2,183000,0,estimado_encuesta,Las2Orillas → Paloma Valencia: cobertura favorable 12.2%
+E0242,MED_07,CAN_02,cobertura_medio_candidato,91.6,1374000,1,estimado_encuesta,Las2Orillas → Iván Cepeda: cobertura favorable 91.6%
+E0243,MED_07,CAN_03,cobertura_medio_candidato,39.0,585000,0,estimado_encuesta,Las2Orillas → Claudia López: cobertura favorable 39.0%
+E0244,MED_07,CAN_04,cobertura_medio_candidato,56.8,852000,0,estimado_encuesta,Las2Orillas → Roy Barreras: cobertura favorable 56.8%
+E0245,MED_07,CAN_05,cobertura_medio_candidato,21.1,316500,0,estimado_encuesta,Las2Orillas → Juan Daniel Oviedo: cobertura favorable 21.1%
+E0246,MED_07,CAN_06,cobertura_medio_candidato,37.2,558000,0,estimado_encuesta,Las2Orillas → Sergio Fajardo: cobertura favorable 37.2%
+E0247,MED_08,CAN_01,cobertura_medio_candidato,46.9,5628000,1,estimado_encuesta,TikTok_Colombia → Paloma Valencia: cobertura favorable 46.9%
+E0248,MED_08,CAN_02,cobertura_medio_candidato,43.5,5220000,1,estimado_encuesta,TikTok_Colombia → Iván Cepeda: cobertura favorable 43.5%
+E0249,MED_08,CAN_03,cobertura_medio_candidato,52.9,6348000,1,estimado_encuesta,TikTok_Colombia → Claudia López: cobertura favorable 52.9%
+E0250,MED_08,CAN_04,cobertura_medio_candidato,47.1,5652000,1,estimado_encuesta,TikTok_Colombia → Roy Barreras: cobertura favorable 47.1%
+E0251,MED_08,CAN_05,cobertura_medio_candidato,51.0,6120000,1,estimado_encuesta,TikTok_Colombia → Juan Daniel Oviedo: cobertura favorable 51.0%
+E0252,MED_08,CAN_06,cobertura_medio_candidato,48.8,5856000,1,estimado_encuesta,TikTok_Colombia → Sergio Fajardo: cobertura favorable 48.8%
+E0253,MED_01,DEP_01,alcance_medio_departamento,51.7,3722400,0,estimado,El Tiempo → Bogotá D.C.: alcance 51.7%
+E0254,MED_01,DEP_02,alcance_medio_departamento,65.8,3158400,0,estimado,El Tiempo → Antioquia: alcance 65.8%
+E0255,MED_01,DEP_03,alcance_medio_departamento,63.8,1977800,0,estimado,El Tiempo → Valle del Cauca: alcance 63.8%
+E0256,MED_01,DEP_04,alcance_medio_departamento,51.1,883748,0,estimado,El Tiempo → Atlántico: alcance 51.1%
+E0257,MED_01,DEP_05,alcance_medio_departamento,54.4,979200,0,estimado,El Tiempo → Cundinamarca: alcance 54.4%
+E0258,MED_01,DEP_06,alcance_medio_departamento,68.1,1035119,0,estimado,El Tiempo → Santander: alcance 68.1%
+E0259,MED_01,DEP_07,alcance_medio_departamento,55.7,835500,0,estimado,El Tiempo → Bolívar: alcance 55.7%
+E0260,MED_01,DEP_08,alcance_medio_departamento,68.2,750200,0,estimado,El Tiempo → Nariño: alcance 68.2%
+E0261,MED_01,DEP_09,alcance_medio_departamento,58.7,575260,0,estimado,El Tiempo → Córdoba: alcance 58.7%
+E0262,MED_01,DEP_10,alcance_medio_departamento,51.5,489250,0,estimado,El Tiempo → Norte de Santander: alcance 51.5%
+E0263,MED_02,DEP_01,alcance_medio_departamento,63.0,4536000,0,estimado,El Espectador → Bogotá D.C.: alcance 63.0%
+E0264,MED_02,DEP_02,alcance_medio_departamento,53.6,2572800,0,estimado,El Espectador → Antioquia: alcance 53.6%
+E0265,MED_02,DEP_03,alcance_medio_departamento,71.3,2210300,0,estimado,El Espectador → Valle del Cauca: alcance 71.3%
+E0266,MED_02,DEP_04,alcance_medio_departamento,61.5,1063611,0,estimado,El Espectador → Atlántico: alcance 61.5%
+E0267,MED_02,DEP_05,alcance_medio_departamento,51.0,918000,0,estimado,El Espectador → Cundinamarca: alcance 51.0%
+E0268,MED_02,DEP_06,alcance_medio_departamento,55.0,836000,0,estimado,El Espectador → Santander: alcance 55.0%
+E0269,MED_02,DEP_07,alcance_medio_departamento,59.0,885000,0,estimado,El Espectador → Bolívar: alcance 59.0%
+E0270,MED_02,DEP_08,alcance_medio_departamento,57.6,633600,0,estimado,El Espectador → Nariño: alcance 57.6%
+E0271,MED_02,DEP_09,alcance_medio_departamento,48.5,475300,0,estimado,El Espectador → Córdoba: alcance 48.5%
+E0272,MED_02,DEP_10,alcance_medio_departamento,65.2,619400,0,estimado,El Espectador → Norte de Santander: alcance 65.2%
+E0273,MED_03,DEP_01,alcance_medio_departamento,64.2,4622400,0,estimado,Semana → Bogotá D.C.: alcance 64.2%
+E0274,MED_03,DEP_02,alcance_medio_departamento,56.1,2692800,0,estimado,Semana → Antioquia: alcance 56.1%
+E0275,MED_03,DEP_03,alcance_medio_departamento,64.3,1993300,0,estimado,Semana → Valle del Cauca: alcance 64.3%
+E0276,MED_03,DEP_04,alcance_medio_departamento,70.1,1212343,0,estimado,Semana → Atlántico: alcance 70.1%
+E0277,MED_03,DEP_05,alcance_medio_departamento,69.8,1256400,0,estimado,Semana → Cundinamarca: alcance 69.8%
+E0278,MED_03,DEP_06,alcance_medio_departamento,68.3,1038160,0,estimado,Semana → Santander: alcance 68.3%
+E0279,MED_03,DEP_07,alcance_medio_departamento,70.9,1063500,0,estimado,Semana → Bolívar: alcance 70.9%
+E0280,MED_03,DEP_08,alcance_medio_departamento,64.0,704000,0,estimado,Semana → Nariño: alcance 64.0%
+E0281,MED_03,DEP_09,alcance_medio_departamento,61.1,598780,0,estimado,Semana → Córdoba: alcance 61.1%
+E0282,MED_03,DEP_10,alcance_medio_departamento,53.0,503500,0,estimado,Semana → Norte de Santander: alcance 53.0%
+E0283,MED_04,DEP_01,alcance_medio_departamento,56.5,4068000,0,estimado,Caracol TV → Bogotá D.C.: alcance 56.5%
+E0284,MED_04,DEP_02,alcance_medio_departamento,55.9,2683200,0,estimado,Caracol TV → Antioquia: alcance 55.9%
+E0285,MED_04,DEP_03,alcance_medio_departamento,70.1,2173099,0,estimado,Caracol TV → Valle del Cauca: alcance 70.1%
+E0286,MED_04,DEP_04,alcance_medio_departamento,65.4,1131059,0,estimado,Caracol TV → Atlántico: alcance 65.4%
+E0287,MED_04,DEP_05,alcance_medio_departamento,48.3,869400,0,estimado,Caracol TV → Cundinamarca: alcance 48.3%
+E0288,MED_04,DEP_06,alcance_medio_departamento,61.4,933280,0,estimado,Caracol TV → Santander: alcance 61.4%
+E0289,MED_04,DEP_07,alcance_medio_departamento,54.1,811500,0,estimado,Caracol TV → Bolívar: alcance 54.1%
+E0290,MED_04,DEP_08,alcance_medio_departamento,56.0,616000,0,estimado,Caracol TV → Nariño: alcance 56.0%
+E0291,MED_04,DEP_09,alcance_medio_departamento,63.5,622300,0,estimado,Caracol TV → Córdoba: alcance 63.5%
+E0292,MED_04,DEP_10,alcance_medio_departamento,58.0,551000,0,estimado,Caracol TV → Norte de Santander: alcance 58.0%
+E0293,MED_05,DEP_01,alcance_medio_departamento,66.7,4802400,0,estimado,RCN TV → Bogotá D.C.: alcance 66.7%
+E0294,MED_05,DEP_02,alcance_medio_departamento,59.4,2851200,0,estimado,RCN TV → Antioquia: alcance 59.4%
+E0295,MED_05,DEP_03,alcance_medio_departamento,69.3,2148300,0,estimado,RCN TV → Valle del Cauca: alcance 69.3%
+E0296,MED_05,DEP_04,alcance_medio_departamento,56.1,970220,0,estimado,RCN TV → Atlántico: alcance 56.1%
+E0297,MED_05,DEP_05,alcance_medio_departamento,48.9,880200,0,estimado,RCN TV → Cundinamarca: alcance 48.9%
+E0298,MED_05,DEP_06,alcance_medio_departamento,53.3,810160,0,estimado,RCN TV → Santander: alcance 53.3%
+E0299,MED_05,DEP_07,alcance_medio_departamento,50.9,763500,0,estimado,RCN TV → Bolívar: alcance 50.9%
+E0300,MED_05,DEP_08,alcance_medio_departamento,68.4,752400,0,estimado,RCN TV → Nariño: alcance 68.4%
+E0301,MED_05,DEP_09,alcance_medio_departamento,54.4,533120,0,estimado,RCN TV → Córdoba: alcance 54.4%
+E0302,MED_05,DEP_10,alcance_medio_departamento,48.4,459800,0,estimado,RCN TV → Norte de Santander: alcance 48.4%
+E0303,MED_06,DEP_01,alcance_medio_departamento,53.0,3816000,0,estimado,Blu Radio → Bogotá D.C.: alcance 53.0%
+E0304,MED_06,DEP_02,alcance_medio_departamento,59.0,2832000,0,estimado,Blu Radio → Antioquia: alcance 59.0%
+E0305,MED_06,DEP_03,alcance_medio_departamento,54.6,1692600,0,estimado,Blu Radio → Valle del Cauca: alcance 54.6%
+E0306,MED_06,DEP_04,alcance_medio_departamento,63.1,1091282,0,estimado,Blu Radio → Atlántico: alcance 63.1%
+E0307,MED_06,DEP_05,alcance_medio_departamento,49.9,898200,0,estimado,Blu Radio → Cundinamarca: alcance 49.9%
+E0308,MED_06,DEP_06,alcance_medio_departamento,64.6,981919,0,estimado,Blu Radio → Santander: alcance 64.6%
+E0309,MED_06,DEP_07,alcance_medio_departamento,60.9,913500,0,estimado,Blu Radio → Bolívar: alcance 60.9%
+E0310,MED_06,DEP_08,alcance_medio_departamento,48.3,531300,0,estimado,Blu Radio → Nariño: alcance 48.3%
+E0311,MED_06,DEP_09,alcance_medio_departamento,50.3,492940,0,estimado,Blu Radio → Córdoba: alcance 50.3%
+E0312,MED_06,DEP_10,alcance_medio_departamento,55.9,531050,0,estimado,Blu Radio → Norte de Santander: alcance 55.9%
+E0313,MED_07,DEP_01,alcance_medio_departamento,53.3,3837600,0,estimado,Las2Orillas → Bogotá D.C.: alcance 53.3%
+E0314,MED_07,DEP_02,alcance_medio_departamento,59.1,2836800,0,estimado,Las2Orillas → Antioquia: alcance 59.1%
+E0315,MED_07,DEP_03,alcance_medio_departamento,62.5,1937500,0,estimado,Las2Orillas → Valle del Cauca: alcance 62.5%
+E0316,MED_07,DEP_04,alcance_medio_departamento,52.1,901042,0,estimado,Las2Orillas → Atlántico: alcance 52.1%
+E0317,MED_07,DEP_05,alcance_medio_departamento,55.4,997200,0,estimado,Las2Orillas → Cundinamarca: alcance 55.4%
+E0318,MED_07,DEP_06,alcance_medio_departamento,61.6,936320,0,estimado,Las2Orillas → Santander: alcance 61.6%
+E0319,MED_07,DEP_07,alcance_medio_departamento,65.1,976499,0,estimado,Las2Orillas → Bolívar: alcance 65.1%
+E0320,MED_07,DEP_08,alcance_medio_departamento,64.3,707300,0,estimado,Las2Orillas → Nariño: alcance 64.3%
+E0321,MED_07,DEP_09,alcance_medio_departamento,61.4,601720,0,estimado,Las2Orillas → Córdoba: alcance 61.4%
+E0322,MED_07,DEP_10,alcance_medio_departamento,50.6,480700,0,estimado,Las2Orillas → Norte de Santander: alcance 50.6%
+E0323,MED_08,DEP_01,alcance_medio_departamento,54.5,3924000,0,estimado,TikTok_Colombia → Bogotá D.C.: alcance 54.5%
+E0324,MED_08,DEP_02,alcance_medio_departamento,58.1,2788800,0,estimado,TikTok_Colombia → Antioquia: alcance 58.1%
+E0325,MED_08,DEP_03,alcance_medio_departamento,52.4,1624400,0,estimado,TikTok_Colombia → Valle del Cauca: alcance 52.4%
+E0326,MED_08,DEP_04,alcance_medio_departamento,65.6,1134518,0,estimado,TikTok_Colombia → Atlántico: alcance 65.6%
+E0327,MED_08,DEP_05,alcance_medio_departamento,71.7,1290600,0,estimado,TikTok_Colombia → Cundinamarca: alcance 71.7%
+E0328,MED_08,DEP_06,alcance_medio_departamento,71.7,1089840,0,estimado,TikTok_Colombia → Santander: alcance 71.7%
+E0329,MED_08,DEP_07,alcance_medio_departamento,69.9,1048500,0,estimado,TikTok_Colombia → Bolívar: alcance 69.9%
+E0330,MED_08,DEP_08,alcance_medio_departamento,63.8,701800,0,estimado,TikTok_Colombia → Nariño: alcance 63.8%
+E0331,MED_08,DEP_09,alcance_medio_departamento,56.2,550760,0,estimado,TikTok_Colombia → Córdoba: alcance 56.2%
+E0332,MED_08,DEP_10,alcance_medio_departamento,56.3,534850,0,estimado,TikTok_Colombia → Norte de Santander: alcance 56.3%
+E0333,FRA_01,CAN_01,afinidad_franja_candidato,30.9,2296387,0,encuesta_simulada_DANE,18-25 años → Paloma Valencia: afinidad 30.9%
+E0334,FRA_01,CAN_02,afinidad_franja_candidato,76.0,5648073,1,encuesta_simulada_DANE,18-25 años → Iván Cepeda: afinidad 76.0%
+E0335,FRA_01,CAN_03,afinidad_franja_candidato,58.1,4317803,0,encuesta_simulada_DANE,18-25 años → Claudia López: afinidad 58.1%
+E0336,FRA_01,CAN_04,afinidad_franja_candidato,80.7,5997361,1,encuesta_simulada_DANE,18-25 años → Roy Barreras: afinidad 80.7%
+E0337,FRA_01,CAN_05,afinidad_franja_candidato,26.3,1954530,0,encuesta_simulada_DANE,18-25 años → Juan Daniel Oviedo: afinidad 26.3%
+E0338,FRA_01,CAN_06,afinidad_franja_candidato,54.9,4079989,0,encuesta_simulada_DANE,18-25 años → Sergio Fajardo: afinidad 54.9%
+E0339,FRA_02,CAN_01,afinidad_franja_candidato,44.2,5109689,0,encuesta_simulada_DANE,26-40 años → Paloma Valencia: afinidad 44.2%
+E0340,FRA_02,CAN_02,afinidad_franja_candidato,52.5,6069201,0,encuesta_simulada_DANE,26-40 años → Iván Cepeda: afinidad 52.5%
+E0341,FRA_02,CAN_03,afinidad_franja_candidato,58.0,6705022,1,encuesta_simulada_DANE,26-40 años → Claudia López: afinidad 58.0%
+E0342,FRA_02,CAN_04,afinidad_franja_candidato,52.0,6011399,0,encuesta_simulada_DANE,26-40 años → Roy Barreras: afinidad 52.0%
+E0343,FRA_02,CAN_05,afinidad_franja_candidato,45.6,5271534,0,encuesta_simulada_DANE,26-40 años → Juan Daniel Oviedo: afinidad 45.6%
+E0344,FRA_02,CAN_06,afinidad_franja_candidato,58.2,6728143,1,encuesta_simulada_DANE,26-40 años → Sergio Fajardo: afinidad 58.2%
+E0345,FRA_03,CAN_01,afinidad_franja_candidato,64.7,8548077,1,encuesta_simulada_DANE,41-60 años → Paloma Valencia: afinidad 64.7%
+E0346,FRA_03,CAN_02,afinidad_franja_candidato,37.2,4914814,0,encuesta_simulada_DANE,41-60 años → Iván Cepeda: afinidad 37.2%
+E0347,FRA_03,CAN_03,afinidad_franja_candidato,47.7,6302060,0,encuesta_simulada_DANE,41-60 años → Claudia López: afinidad 47.7%
+E0348,FRA_03,CAN_04,afinidad_franja_candidato,34.4,4544882,0,encuesta_simulada_DANE,41-60 años → Roy Barreras: afinidad 34.4%
+E0349,FRA_03,CAN_05,afinidad_franja_candidato,61.3,8098874,1,encuesta_simulada_DANE,41-60 años → Juan Daniel Oviedo: afinidad 61.3%
+E0350,FRA_03,CAN_06,afinidad_franja_candidato,46.5,6143518,0,encuesta_simulada_DANE,41-60 años → Sergio Fajardo: afinidad 46.5%
+E0351,FRA_04,CAN_01,afinidad_franja_candidato,69.8,6340044,1,encuesta_simulada_DANE,61+ años → Paloma Valencia: afinidad 69.8%
+E0352,FRA_04,CAN_02,afinidad_franja_candidato,31.3,2843028,0,encuesta_simulada_DANE,61+ años → Iván Cepeda: afinidad 31.3%
+E0353,FRA_04,CAN_03,afinidad_franja_candidato,43.5,3951173,0,encuesta_simulada_DANE,61+ años → Claudia López: afinidad 43.5%
+E0354,FRA_04,CAN_04,afinidad_franja_candidato,32.1,2915693,0,encuesta_simulada_DANE,61+ años → Roy Barreras: afinidad 32.1%
+E0355,FRA_04,CAN_05,afinidad_franja_candidato,66.4,6031217,1,encuesta_simulada_DANE,61+ años → Juan Daniel Oviedo: afinidad 66.4%
+E0356,FRA_04,CAN_06,afinidad_franja_candidato,41.9,3805843,0,encuesta_simulada_DANE,61+ años → Sergio Fajardo: afinidad 41.9%
+E0357,FRA_05,CAN_01,afinidad_franja_candidato,28.7,5924696,0,encuesta_simulada_DANE,Estrato 1-2 → Paloma Valencia: afinidad 28.7%
+E0358,FRA_05,CAN_02,afinidad_franja_candidato,72.1,14883993,1,encuesta_simulada_DANE,Estrato 1-2 → Iván Cepeda: afinidad 72.1%
+E0359,FRA_05,CAN_03,afinidad_franja_candidato,48.2,9950187,0,encuesta_simulada_DANE,Estrato 1-2 → Claudia López: afinidad 48.2%
+E0360,FRA_05,CAN_04,afinidad_franja_candidato,70.6,14574340,1,encuesta_simulada_DANE,Estrato 1-2 → Roy Barreras: afinidad 70.6%
+E0361,FRA_05,CAN_05,afinidad_franja_candidato,30.5,6296280,0,encuesta_simulada_DANE,Estrato 1-2 → Juan Daniel Oviedo: afinidad 30.5%
+E0362,FRA_05,CAN_06,afinidad_franja_candidato,46.7,9640534,0,encuesta_simulada_DANE,Estrato 1-2 → Sergio Fajardo: afinidad 46.7%
+E0363,FRA_06,CAN_01,afinidad_franja_candidato,49.4,7138536,0,encuesta_simulada_DANE,Estrato 3-4 → Paloma Valencia: afinidad 49.4%
+E0364,FRA_06,CAN_02,afinidad_franja_candidato,45.9,6632770,0,encuesta_simulada_DANE,Estrato 3-4 → Iván Cepeda: afinidad 45.9%
+E0365,FRA_06,CAN_03,afinidad_franja_candidato,64.9,9378361,1,encuesta_simulada_DANE,Estrato 3-4 → Claudia López: afinidad 64.9%
+E0366,FRA_06,CAN_04,afinidad_franja_candidato,39.4,5693488,0,encuesta_simulada_DANE,Estrato 3-4 → Roy Barreras: afinidad 39.4%
+E0367,FRA_06,CAN_05,afinidad_franja_candidato,50.1,7239690,0,encuesta_simulada_DANE,Estrato 3-4 → Juan Daniel Oviedo: afinidad 50.1%
+E0368,FRA_06,CAN_06,afinidad_franja_candidato,65.6,9479514,1,encuesta_simulada_DANE,Estrato 3-4 → Sergio Fajardo: afinidad 65.6%
+E0369,FRA_07,CAN_01,afinidad_franja_candidato,81.0,5016380,1,encuesta_simulada_DANE,Estrato 5-6 → Paloma Valencia: afinidad 81.0%
+E0370,FRA_07,CAN_02,afinidad_franja_candidato,22.2,1374859,0,encuesta_simulada_DANE,Estrato 5-6 → Iván Cepeda: afinidad 22.2%
+E0371,FRA_07,CAN_03,afinidad_franja_candidato,47.1,2916932,0,encuesta_simulada_DANE,Estrato 5-6 → Claudia López: afinidad 47.1%
+E0372,FRA_07,CAN_04,afinidad_franja_candidato,18.9,1170488,0,encuesta_simulada_DANE,Estrato 5-6 → Roy Barreras: afinidad 18.9%
+E0373,FRA_07,CAN_05,afinidad_franja_candidato,78.9,4886326,1,encuesta_simulada_DANE,Estrato 5-6 → Juan Daniel Oviedo: afinidad 78.9%
+E0374,FRA_07,CAN_06,afinidad_franja_candidato,45.7,2830229,0,encuesta_simulada_DANE,Estrato 5-6 → Sergio Fajardo: afinidad 45.7%
+E0375,FRA_08,CAN_01,afinidad_franja_candidato,57.7,14293588,1,encuesta_simulada_DANE,Sin edu. superior → Paloma Valencia: afinidad 57.7%
+E0376,FRA_08,CAN_02,afinidad_franja_candidato,45.7,11320918,0,encuesta_simulada_DANE,Sin edu. superior → Iván Cepeda: afinidad 45.7%
+E0377,FRA_08,CAN_03,afinidad_franja_candidato,45.1,11172284,0,encuesta_simulada_DANE,Sin edu. superior → Claudia López: afinidad 45.1%
+E0378,FRA_08,CAN_04,afinidad_franja_candidato,48.2,11940224,0,encuesta_simulada_DANE,Sin edu. superior → Roy Barreras: afinidad 48.2%
+E0379,FRA_08,CAN_05,afinidad_franja_candidato,58.1,14392677,1,encuesta_simulada_DANE,Sin edu. superior → Juan Daniel Oviedo: afinidad 58.1%
+E0380,FRA_08,CAN_06,afinidad_franja_candidato,47.3,11717274,0,encuesta_simulada_DANE,Sin edu. superior → Sergio Fajardo: afinidad 47.3%
+E0381,FRA_09,CAN_01,afinidad_franja_candidato,43.2,7134408,0,encuesta_simulada_DANE,Con edu. superior → Paloma Valencia: afinidad 43.2%
+E0382,FRA_09,CAN_02,afinidad_franja_candidato,55.0,9083158,0,encuesta_simulada_DANE,Con edu. superior → Iván Cepeda: afinidad 55.0%
+E0383,FRA_09,CAN_03,afinidad_franja_candidato,64.9,10718127,1,encuesta_simulada_DANE,Con edu. superior → Claudia López: afinidad 64.9%
+E0384,FRA_09,CAN_04,afinidad_franja_candidato,52.5,8670287,0,encuesta_simulada_DANE,Con edu. superior → Roy Barreras: afinidad 52.5%
+E0385,FRA_09,CAN_05,afinidad_franja_candidato,47.7,7877575,0,encuesta_simulada_DANE,Con edu. superior → Juan Daniel Oviedo: afinidad 47.7%
+E0386,FRA_09,CAN_06,afinidad_franja_candidato,63.6,10503434,1,encuesta_simulada_DANE,Con edu. superior → Sergio Fajardo: afinidad 63.6%
+E0387,FRA_10,CAN_01,afinidad_franja_candidato,42.0,5202172,0,encuesta_simulada_DANE,Zona rural → Paloma Valencia: afinidad 42.0%
+E0388,FRA_10,CAN_02,afinidad_franja_candidato,67.1,8311090,1,encuesta_simulada_DANE,Zona rural → Iván Cepeda: afinidad 67.1%
+E0389,FRA_10,CAN_03,afinidad_franja_candidato,40.9,5065925,0,encuesta_simulada_DANE,Zona rural → Claudia López: afinidad 40.9%
+E0390,FRA_10,CAN_04,afinidad_franja_candidato,68.3,8459723,1,encuesta_simulada_DANE,Zona rural → Roy Barreras: afinidad 68.3%
+E0391,FRA_10,CAN_05,afinidad_franja_candidato,35.2,4359916,0,encuesta_simulada_DANE,Zona rural → Juan Daniel Oviedo: afinidad 35.2%
+E0392,FRA_10,CAN_06,afinidad_franja_candidato,40.4,5003994,0,encuesta_simulada_DANE,Zona rural → Sergio Fajardo: afinidad 40.4%
+E0393,FRA_11,CAN_01,afinidad_franja_candidato,55.8,16126735,0,encuesta_simulada_DANE,Zona urbana → Paloma Valencia: afinidad 55.8%
+E0394,FRA_11,CAN_02,afinidad_franja_candidato,43.8,12658619,0,encuesta_simulada_DANE,Zona urbana → Iván Cepeda: afinidad 43.8%
+E0395,FRA_11,CAN_03,afinidad_franja_candidato,55.1,15924428,1,encuesta_simulada_DANE,Zona urbana → Claudia López: afinidad 55.1%
+E0396,FRA_11,CAN_04,afinidad_franja_candidato,44.5,12860926,0,encuesta_simulada_DANE,Zona urbana → Roy Barreras: afinidad 44.5%
+E0397,FRA_11,CAN_05,afinidad_franja_candidato,53.3,15404211,0,encuesta_simulada_DANE,Zona urbana → Juan Daniel Oviedo: afinidad 53.3%
+E0398,FRA_11,CAN_06,afinidad_franja_candidato,54.5,15751022,1,encuesta_simulada_DANE,Zona urbana → Sergio Fajardo: afinidad 54.5%
+E0399,FRA_12,CAN_01,afinidad_franja_candidato,26.3,1628775,0,encuesta_simulada_DANE,Comunidades étnicas → Paloma Valencia: afinidad 26.3%
+E0400,FRA_12,CAN_02,afinidad_franja_candidato,72.3,4477584,1,encuesta_simulada_DANE,Comunidades étnicas → Iván Cepeda: afinidad 72.3%
+E0401,FRA_12,CAN_03,afinidad_franja_candidato,44.3,2743526,0,encuesta_simulada_DANE,Comunidades étnicas → Claudia López: afinidad 44.3%
+E0402,FRA_12,CAN_04,afinidad_franja_candidato,79.5,4923484,1,encuesta_simulada_DANE,Comunidades étnicas → Roy Barreras: afinidad 79.5%
+E0403,FRA_12,CAN_05,afinidad_franja_candidato,22.4,1387246,0,encuesta_simulada_DANE,Comunidades étnicas → Juan Daniel Oviedo: afinidad 22.4%
+E0404,FRA_12,CAN_06,afinidad_franja_candidato,40.1,2483418,0,encuesta_simulada_DANE,Comunidades étnicas → Sergio Fajardo: afinidad 40.1%

@@ -1,0 +1,61 @@
+node_id,nombre,tipo,subtipo,atributo_1,atributo_1_label,atributo_2,atributo_2_label,atributo_3,atributo_3_label,atributo_4,atributo_4_label,region
+CAN_01,Paloma Valencia,candidato,derecha,Centro Democrático,partido,3220417,votos_consulta,45.7,pct_total,"Senadora caucana, uribismo, seguridad y economía de mercado",perfil,Nacional
+CAN_02,Iván Cepeda,candidato,izquierda,Pacto Histórico,partido,3500000,votos_consulta,22.82,pct_total,"Senador bogotano, continuidad proyecto Petro, derechos humanos",perfil,Nacional
+CAN_03,Claudia López,candidato,centro,Consulta de las Soluciones,partido,573450,votos_consulta,8.14,pct_total,"Ex alcaldesa Bogotá, anticorrupción, gestión urbana",perfil,Nacional
+CAN_04,Roy Barreras,candidato,centro_izq,Frente por la Vida,partido,256129,votos_consulta,3.63,pct_total,"Ex senador caleño, centro-izquierda, salud y reforma social",perfil,Nacional
+CAN_05,Juan Daniel Oviedo,candidato,centro_der,Gran Consulta por Colombia,partido,1252371,votos_consulta,17.76,pct_total,"Ex director DANE, tecnocracia, datos y gestión pública",perfil,Nacional
+CAN_06,Sergio Fajardo,candidato,centro,Independiente,partido,180000,votos_consulta,2.1,pct_total,"Ex gobernador Antioquia, educación, ciencia y tecnología",perfil,Nacional
+DEP_01,Bogotá D.C.,departamento,izquierda,Pacto Histórico,partido_dominante_senado,7200000,censo_electoral,8500,pib_percapita_usd,10,ruralidad_pct,Centro
+DEP_02,Antioquia,departamento,derecha,Centro Democrático,partido_dominante_senado,4800000,censo_electoral,5200,pib_percapita_usd,32,ruralidad_pct,Andina
+DEP_03,Valle del Cauca,departamento,izquierda,Pacto Histórico,partido_dominante_senado,3100000,censo_electoral,4800,pib_percapita_usd,18,ruralidad_pct,Pacífico
+DEP_04,Atlántico,departamento,centro,Partido Liberal,partido_dominante_senado,1729449,censo_electoral,4200,pib_percapita_usd,15,ruralidad_pct,Caribe
+DEP_05,Cundinamarca,departamento,derecha,Centro Democrático,partido_dominante_senado,1800000,censo_electoral,4600,pib_percapita_usd,45,ruralidad_pct,Centro
+DEP_06,Santander,departamento,derecha,Centro Democrático,partido_dominante_senado,1520000,censo_electoral,5800,pib_percapita_usd,38,ruralidad_pct,Andina
+DEP_07,Bolívar,departamento,centro,Partido Liberal,partido_dominante_senado,1500000,censo_electoral,3200,pib_percapita_usd,42,ruralidad_pct,Caribe
+DEP_08,Nariño,departamento,izquierda,Pacto Histórico,partido_dominante_senado,1100000,censo_electoral,2800,pib_percapita_usd,55,ruralidad_pct,Pacífico
+DEP_09,Córdoba,departamento,centro,Partido Liberal,partido_dominante_senado,980000,censo_electoral,2600,pib_percapita_usd,58,ruralidad_pct,Caribe
+DEP_10,Norte de Santander,departamento,derecha,Centro Democrático,partido_dominante_senado,950000,censo_electoral,3400,pib_percapita_usd,40,ruralidad_pct,Andina
+DEP_11,Huila,departamento,derecha,Centro Democrático,partido_dominante_senado,780000,censo_electoral,3600,pib_percapita_usd,48,ruralidad_pct,Andina
+DEP_12,Tolima,departamento,centro,Partido Liberal,partido_dominante_senado,870000,censo_electoral,3100,pib_percapita_usd,50,ruralidad_pct,Andina
+DEP_13,Cauca,departamento,izquierda,Pacto Histórico,partido_dominante_senado,980000,censo_electoral,2400,pib_percapita_usd,62,ruralidad_pct,Pacífico
+DEP_14,Meta,departamento,derecha,Centro Democrático,partido_dominante_senado,700000,censo_electoral,6200,pib_percapita_usd,45,ruralidad_pct,Orinoquía
+DEP_15,Cesar,departamento,centro,Partido Liberal,partido_dominante_senado,800000,censo_electoral,3000,pib_percapita_usd,44,ruralidad_pct,Caribe
+DEP_16,Risaralda,departamento,derecha,Centro Democrático,partido_dominante_senado,690000,censo_electoral,4400,pib_percapita_usd,28,ruralidad_pct,Andina
+DEP_17,Magdalena,departamento,centro,Partido Liberal,partido_dominante_senado,850000,censo_electoral,2800,pib_percapita_usd,46,ruralidad_pct,Caribe
+DEP_18,Boyacá,departamento,derecha,Centro Democrático,partido_dominante_senado,870000,censo_electoral,3800,pib_percapita_usd,52,ruralidad_pct,Andina
+DEP_19,Caldas,departamento,derecha,Centro Democrático,partido_dominante_senado,680000,censo_electoral,4200,pib_percapita_usd,35,ruralidad_pct,Andina
+DEP_20,La Guajira,departamento,izquierda,Pacto Histórico,partido_dominante_senado,580000,censo_electoral,2200,pib_percapita_usd,55,ruralidad_pct,Caribe
+DEP_21,Sucre,departamento,centro,Partido Liberal,partido_dominante_senado,580000,censo_electoral,2400,pib_percapita_usd,50,ruralidad_pct,Caribe
+DEP_22,Chocó,departamento,izquierda,Pacto Histórico,partido_dominante_senado,330000,censo_electoral,1800,pib_percapita_usd,68,ruralidad_pct,Pacífico
+DEP_23,Quindío,departamento,derecha,Centro Democrático,partido_dominante_senado,440000,censo_electoral,4000,pib_percapita_usd,22,ruralidad_pct,Andina
+DEP_24,Putumayo,departamento,izquierda,Pacto Histórico,partido_dominante_senado,270000,censo_electoral,2200,pib_percapita_usd,72,ruralidad_pct,Amazonía
+DEP_25,Caquetá,departamento,izquierda,Pacto Histórico,partido_dominante_senado,270000,censo_electoral,2000,pib_percapita_usd,70,ruralidad_pct,Amazonía
+DEP_26,Arauca,departamento,izquierda,Pacto Histórico,partido_dominante_senado,180000,censo_electoral,3800,pib_percapita_usd,60,ruralidad_pct,Orinoquía
+DEP_27,Casanare,departamento,derecha,Centro Democrático,partido_dominante_senado,280000,censo_electoral,8200,pib_percapita_usd,42,ruralidad_pct,Orinoquía
+DEP_28,Amazonas,departamento,izquierda,Pacto Histórico,partido_dominante_senado,50000,censo_electoral,2000,pib_percapita_usd,75,ruralidad_pct,Amazonía
+DEP_29,Guainía,departamento,izquierda,Pacto Histórico,partido_dominante_senado,25000,censo_electoral,1800,pib_percapita_usd,80,ruralidad_pct,Amazonía
+DEP_30,Vichada,departamento,derecha,Centro Democrático,partido_dominante_senado,40000,censo_electoral,2200,pib_percapita_usd,78,ruralidad_pct,Orinoquía
+DEP_31,Vaupés,departamento,izquierda,Pacto Histórico,partido_dominante_senado,20000,censo_electoral,1600,pib_percapita_usd,82,ruralidad_pct,Amazonía
+DEP_32,San Andrés,departamento,centro,Alianza por Colombia,partido_dominante_senado,60000,censo_electoral,6800,pib_percapita_usd,12,ruralidad_pct,Caribe
+DEP_33,Exterior EEUU,departamento,derecha,Centro Democrático,partido_dominante_senado,180000,censo_electoral,0,pib_percapita_usd,0,ruralidad_pct,Exterior
+DEP_34,Exterior Europa,departamento,izquierda,Pacto Histórico,partido_dominante_senado,90000,censo_electoral,0,pib_percapita_usd,0,ruralidad_pct,Exterior
+FRA_01,18-25 años,franja_demografica,edad,"Voto joven, redes, alta abstención histórica 45%",descripcion,izquierda,tendencia_ideologica,0.18,proporcion_censo,,,Nacional
+FRA_02,26-40 años,franja_demografica,edad,"Primera generación digital, productiva",descripcion,centro,tendencia_ideologica,0.28,proporcion_censo,,,Nacional
+FRA_03,41-60 años,franja_demografica,edad,"Mayor participación histórica, consolidado",descripcion,derecha,tendencia_ideologica,0.32,proporcion_censo,,,Nacional
+FRA_04,61+ años,franja_demografica,edad,"Alta participación, tendencia conservadora",descripcion,derecha,tendencia_ideologica,0.22,proporcion_censo,,,Nacional
+FRA_05,Estrato 1-2,franja_demografica,estrato,"50% del censo, economía popular, informalidad",descripcion,izquierda,tendencia_ideologica,0.5,proporcion_censo,,,Nacional
+FRA_06,Estrato 3-4,franja_demografica,estrato,"Clase media, empleados formales",descripcion,centro,tendencia_ideologica,0.35,proporcion_censo,,,Nacional
+FRA_07,Estrato 5-6,franja_demografica,estrato,"Alto ingreso, sectores financiero y empresarial",descripcion,derecha,tendencia_ideologica,0.15,proporcion_censo,,,Nacional
+FRA_08,Sin edu. superior,franja_demografica,educacion,"60% del censo, bachillerato o menos",descripcion,derecha,tendencia_ideologica,0.6,proporcion_censo,,,Nacional
+FRA_09,Con edu. superior,franja_demografica,educacion,"40% del censo, universitarios y posgrado",descripcion,centro,tendencia_ideologica,0.4,proporcion_censo,,,Nacional
+FRA_10,Zona rural,franja_demografica,ruralidad,"30% del censo, economías agrarias, conflicto",descripcion,izquierda,tendencia_ideologica,0.3,proporcion_censo,,,Nacional
+FRA_11,Zona urbana,franja_demografica,ruralidad,"70% del censo, servicios, industria",descripcion,centro,tendencia_ideologica,0.7,proporcion_censo,,,Nacional
+FRA_12,Comunidades étnicas,franja_demografica,etnia,"Afrocolombianos + indígenas, 15% del censo",descripcion,izquierda,tendencia_ideologica,0.15,proporcion_censo,,,Nacional
+MED_01,El Tiempo,medio,prensa,centro_der,orientacion_editorial,2800000,audiencia_estimada,Nacional,cobertura,,,Nacional
+MED_02,El Espectador,medio,prensa,centro_izq,orientacion_editorial,1200000,audiencia_estimada,Nacional,cobertura,,,Nacional
+MED_03,Semana,medio,revista,derecha,orientacion_editorial,1800000,audiencia_estimada,Nacional,cobertura,,,Nacional
+MED_04,Caracol TV,medio,tv,centro,orientacion_editorial,8500000,audiencia_estimada,Nacional,cobertura,,,Nacional
+MED_05,RCN TV,medio,tv,centro_der,orientacion_editorial,7200000,audiencia_estimada,Nacional,cobertura,,,Nacional
+MED_06,Blu Radio,medio,radio,derecha,orientacion_editorial,3200000,audiencia_estimada,Nacional,cobertura,,,Nacional
+MED_07,Las2Orillas,medio,digital,izquierda,orientacion_editorial,1500000,audiencia_estimada,Nacional,cobertura,,,Nacional
+MED_08,TikTok_Colombia,medio,social,neutro,orientacion_editorial,12000000,audiencia_estimada,Nacional,cobertura,,,Nacional

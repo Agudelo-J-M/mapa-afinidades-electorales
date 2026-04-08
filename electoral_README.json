@@ -1,0 +1,34 @@
+{
+  "dataset": "Red Electoral Colombia 2026 — Datos Reales + Estimados",
+  "fecha_eleccion": "8 de marzo de 2026",
+  "fuentes_reales": [
+    "Registraduría Nacional — resultados consultas presidenciales 8-mar-2026",
+    "El Tiempo — resultados Senado por departamento",
+    "El Espectador — análisis resultados legislativos",
+    "DANE — estratificación, ruralidad, etnicidad por departamento"
+  ],
+  "tipos_nodos": {
+    "candidato": "6 candidatos con votos reales de consultas",
+    "departamento": "34 departamentos + exterior con perfil DANE",
+    "franja_demografica": "12 franjas (edad, estrato, educación, ruralidad, etnia)",
+    "medio": "8 medios de comunicación con orientación editorial"
+  },
+  "tipos_aristas": {
+    "voto_candidato_departamento": "candidato→departamento | peso=% votos estimados en dpto | FUENTE: ajuste sobre resultados reales",
+    "cobertura_medio_candidato": "medio→candidato | peso=índice cobertura favorable 0-100 | FUENTE: análisis editorial",
+    "alcance_medio_departamento": "medio→departamento | peso=% alcance regional | FUENTE: estimado",
+    "afinidad_franja_candidato": "franja→candidato | peso=% afinidad demográfica | FUENTE: encuestas DANE simuladas"
+  },
+  "estadisticas": {
+    "total_nodos": 60,
+    "total_aristas": 404
+  },
+  "nota_metodologica": "Los datos marcados como 'real_ajustado' corresponden a departamentos con resultados publicados. Los marcados 'estimado' son proyecciones basadas en patrones históricos regionales y el resultado nacional real. Las franjas demográficas usan distribuciones DANE 2023 ajustadas a contexto 2026.",
+  "preguntas_que_responde_el_grafo": [
+    "2A: ¿Qué clusters de departamentos votan de forma similar? ¿Coinciden con regiones geográficas?",
+    "2A: ¿Qué medios forman comunidades de influencia con qué candidatos?",
+    "2B: ¿Cuál es el camino de menor resistencia de un medio a un votante en un departamento específico?",
+    "2B: ¿Qué candidato tiene el acceso más eficiente a las franjas de estrato bajo?",
+    "Ambos: ¿Los clusters de influencia mediática coinciden con los clusters de votación departamental?"
+  ]
+}
